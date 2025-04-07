@@ -18,7 +18,7 @@ A modern, responsive website showcasing projects and YouTube videos with dynamic
 
 ## Live Demo
 
-Visit the live site at: [TCG.corp](https://yourusername.github.io/TCG.corp/)
+Visit the live site at: [TCG.corp](https://the-codist-gamer.github.io/TCG.org/)
 
 ## Local Development
 
